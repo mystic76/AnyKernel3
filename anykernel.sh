@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Chickernel by chickendrop89 | t.me/chickendrop89
+kernel.string=havoc kernel by abhiram79 | based on chic kernel by chickendrop89
 do.devicecheck=1
 do.modules=0
 do.systemless=1
